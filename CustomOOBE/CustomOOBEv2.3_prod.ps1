@@ -2,7 +2,7 @@
  Purpose: Create Custom Windows user OOBE
  Version: 2.3 - May 29, 2025
 
- Author - Anton Savchenko/mr.connors
+ Author: - Anton Savchenko/mr.connors
 #>
 
 $ErrorActionPreference = 'Stop'
